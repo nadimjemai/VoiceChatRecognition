@@ -1,7 +1,1 @@
-# React Firebase Super Chat
-
-A simple fullstack chat demo with React and Firebase. 
-
-Watch on full [React Firebase Chat Tutorial](https://youtu.be/zQyrwxMPm88) on YouTube. 
-
-[Live demo](https://fireship-demos.web.app/)
+You will find the project under nadim branch , you need to change your and put your firebase config and you are good to go :D 
