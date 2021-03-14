@@ -18,13 +18,7 @@ mic.interimResults = true
 mic.lang = 'en-US'
 
 firebase.initializeApp({
-  apiKey: "AIzaSyAPG60mXMNTIsBNMW6ZGa5kGGpq0lTIDxg",
-  authDomain: "first-nadim.firebaseapp.com",
-  projectId: "first-nadim",
-  storageBucket: "first-nadim.appspot.com",
-  messagingSenderId: "998119183957",
-  appId: "1:998119183957:web:415a138f58b10056d126dc",
-  measurementId: "G-H7MLJ3C411"
+ //Firebase Config
 })
 
 const auth = firebase.auth();
